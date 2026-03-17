@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VedantPatil0525&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vedantpatil&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
